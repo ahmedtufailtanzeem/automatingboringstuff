@@ -1,0 +1,3 @@
+Project : /Users/tanz/PycharmProjects/automate-stuff
+Site-Packages : /Users/tanz/PycharmProjects/automate-stuff/venv/lib/python3.6/site-packages
+Pip Installer : /Users/tanz/PycharmProjects/automate-stuff/venv/bin/pip3 install pyperclip
